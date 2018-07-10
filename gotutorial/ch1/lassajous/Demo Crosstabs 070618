@@ -1,0 +1,6 @@
+Crosstab N Size Issues
+
+The Problem:
+The N size for the first segment was being displayed as the N size across multiple charts, which affected Grid and Rank at the very least.
+
+Additionally, after discussions with Kelly, it was realized that clustered bar charts do not display the N size for each segment like they do for the Grid and Rank charts.
